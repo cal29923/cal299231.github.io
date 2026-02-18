@@ -2,9 +2,9 @@ h1{color: purple;
     font: 30px;
     text-align: center;
     background-color: grey;}
-datalist{color:black;
-         font: 15px;
-         text-align: right;}
+p{color:black;
+  font: 15px;
+  text-align: right;}
 ..gallery {
     display: flex;             
     justify-content: center;
@@ -21,4 +21,3 @@ datalist{color:black;
     display: block;          
     margin-bottom: 10px;      
 }
-
