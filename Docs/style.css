@@ -5,7 +5,7 @@ h1{color: purple;
 p{color:black;
   font: 15px;
   text-align: right;}
-..gallery {
+.gallery {
     display: flex;             
     justify-content: center;
     gap: 20px;                 
